@@ -1,4 +1,4 @@
-# uantitative Portfolio Construction (Python)
+# Quantitative Portfolio Construction (Python)
 ## Overview
 This repository implements an **end-to-end systematic investment framework** using Python.  
 It translates core concepts from **quantitative finance and asset management** into a practical, executable workflow using real market data.
