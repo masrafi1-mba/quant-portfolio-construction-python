@@ -69,4 +69,12 @@ Evaluates the full strategy using historical data with:
 
 ---
 
-## Repository Structure
+## Disclaimer
+This project is for **educational and research purposes only**.  
+It does not constitute financial advice or an investment recommendation.
+
+---
+
+## Author
+Maulana Asrafi  
+Python • Quant Finance • Portfolio Optimization
