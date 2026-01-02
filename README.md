@@ -72,6 +72,43 @@ It does not constitute financial advice or an investment recommendation.
 
 ---
 
+### A. Benchmark & Universe
+- **Benchmark:** S&P 500  
+- **Investment Universe:** S&P 200 (large-cap, liquid equities)
+
+The benchmark is used for performance comparison and risk modeling, while the universe defines the eligible assets for portfolio construction.
+
+---
+
+### B. Portfolio Parameters
+- **Holding & Review Frequency:** Monthly  
+- **Number of Stocks:** 10–16  
+- **Weight Constraints:**  
+  - Maximum 12–15% per stock  
+  - Sector exposure capped at 30%  
+- **Rebalancing Frequency:** Monthly  
+
+These constraints are designed to ensure diversification, control concentration risk, and maintain portfolio stability over time.
+
+---
+
+### C. Data Assumptions
+- **Price Data:** Monthly closing prices  
+- **Data History:** Minimum 5–10 years  
+- **Risk-Free Rate:** 3-Month U.S. Treasury Bill  
+
+Monthly frequency is chosen to balance signal stability, transaction costs, and practical portfolio management considerations.
+
+---
+
+### Rationale
+The above assumptions reflect a **realistic, institutionally inspired portfolio setup**, emphasizing:
+- Risk-adjusted returns rather than raw performance  
+- Capital survivability through diversification and constraints  
+- Reproducibility and robustness across market cycles  
+
+These parameters are consistently applied across all modules, from expected return estimation to backtesting.
+
 ## Author
 Maulana Asrafi  
 Python • Quant Finance • Portfolio Optimization
