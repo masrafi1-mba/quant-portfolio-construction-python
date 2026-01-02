@@ -51,11 +51,8 @@ Constructs optimal portfolios using mean–variance optimization, including:
 ### 6. Exit Strategy
 Implements systematic exit rules based on momentum deterioration, relative performance, and risk control signals.
 
-### 7. Backtesting Engine
-Evaluates the full strategy using historical data with:
-- Monthly rebalancing
-- Portfolio-level returns
-- Risk metrics (volatility, drawdown, Sharpe ratio)
+### 7. Get Price
+Generete Price of the stocks at the specific time
 
 ---
 
